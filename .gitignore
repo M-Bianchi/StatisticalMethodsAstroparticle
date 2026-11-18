@@ -38,3 +38,7 @@
 .DS_Store
 /LectureNotes/.texpadtmp
 LectureNotes/Statistics_Benato.synctex.gz
+LectureNotes/Statistics_Benato.fdb_latexmk
+LectureNotes/Statistics_Benato.ind
+LectureNotes/Statistics_Benato.fls
+LectureNotes/Statistics_Benato.ilg
